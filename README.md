@@ -1,5 +1,6 @@
-# About me
+# Jayashree
 
+| About | Projects | Resume | Contact |
 
 My name is Jayashree Nagarajan and I live and work in San Francisco Bay Area, CA.
 
